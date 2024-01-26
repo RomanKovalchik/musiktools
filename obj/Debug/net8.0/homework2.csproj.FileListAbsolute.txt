@@ -1,0 +1,14 @@
+C:\Users\Professional\Desktop\C#Pro\homework2\bin\Debug\net8.0\homework2.exe
+C:\Users\Professional\Desktop\C#Pro\homework2\bin\Debug\net8.0\homework2.deps.json
+C:\Users\Professional\Desktop\C#Pro\homework2\bin\Debug\net8.0\homework2.runtimeconfig.json
+C:\Users\Professional\Desktop\C#Pro\homework2\bin\Debug\net8.0\homework2.dll
+C:\Users\Professional\Desktop\C#Pro\homework2\bin\Debug\net8.0\homework2.pdb
+C:\Users\Professional\Desktop\C#Pro\homework2\obj\Debug\net8.0\homework2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\Desktop\C#Pro\homework2\obj\Debug\net8.0\homework2.AssemblyInfoInputs.cache
+C:\Users\Professional\Desktop\C#Pro\homework2\obj\Debug\net8.0\homework2.AssemblyInfo.cs
+C:\Users\Professional\Desktop\C#Pro\homework2\obj\Debug\net8.0\homework2.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\C#Pro\homework2\obj\Debug\net8.0\homework2.dll
+C:\Users\Professional\Desktop\C#Pro\homework2\obj\Debug\net8.0\refint\homework2.dll
+C:\Users\Professional\Desktop\C#Pro\homework2\obj\Debug\net8.0\homework2.pdb
+C:\Users\Professional\Desktop\C#Pro\homework2\obj\Debug\net8.0\homework2.genruntimeconfig.cache
+C:\Users\Professional\Desktop\C#Pro\homework2\obj\Debug\net8.0\ref\homework2.dll
